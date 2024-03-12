@@ -1,4 +1,4 @@
-oding of Cybersecurity task given by Prodigy InfoTech. If a program gets an error on a platform, try to run it on some other platform or any online complier.
+Coding of Cybersecurity task given by Prodigy InfoTech. If a program gets an error on a platform, try to run it on some other platform or any online complier.
 
 Task 1: Created a Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption.
 
